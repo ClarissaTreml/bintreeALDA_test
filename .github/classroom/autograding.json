@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "name": "Insert 1 (1 Point)",
+      "setup": "make gruppea",
+      "run": "./gruppea Test1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Insert 2 (1 Point)",
+      "setup": "make gruppea",
+      "run": "./gruppea Test2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Insert 3 (1 Point)",
+      "setup": "make gruppea",
+      "run": "./gruppea Test3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Insert 4 (1 Point)",
+      "setup": "make gruppea",
+      "run": "./gruppea Test4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "printTreeInOrder (1 Point)",
+      "setup": "make gruppea",
+      "run": "./gruppea Test5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "testPrintTreeInOrder (3 Points)",
+      "setup": "make gruppea",
+      "run": "./gruppea Test6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "validateTree 1 (1 Point)",
+      "setup": "make gruppea",
+      "run": "./gruppea Test7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "validateTree 2 (1 Point)",
+      "setup": "make gruppea",
+      "run": "./gruppea Test8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
