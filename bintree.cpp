@@ -49,14 +49,18 @@ node *insert(binTree *t, const char *key, const char *data){
     node *newNode;
 
     newNode = insertNode(t->root, key, data);
-    printf("\n");
+
 
     if (t->root == NULL) t->root = newNode;
     if (newNode != NULL) t->size++;
 
 
 
+
+
     return newNode;
+
+
 
 }
 
@@ -83,6 +87,8 @@ int validate(node *start, int min, int max){
 
 
 
+
+
     // recursive implementation
-    return 0;
+
 }
